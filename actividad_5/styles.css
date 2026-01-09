@@ -24,6 +24,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 20px;
+    row-gap: 5px;
     grid-template-rows: 50px 50px;
     width: 100%;
 }
