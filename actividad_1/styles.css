@@ -1,0 +1,26 @@
+.d1 {
+    background-color: #1b80da;
+}
+
+.d2 {
+    background-color: #da1b4a;
+}
+
+.d3 {
+    background-color: #1bda6f;
+}
+
+.d4 {
+    background-color: #da9b1b;
+}
+
+.d5 {
+    background-color: #9b1bda;
+}
+
+.container {
+    font-size: 40px;
+    background-color: lightgray;
+    display: grid;
+    width: 100%;
+}
